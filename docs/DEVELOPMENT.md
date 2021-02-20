@@ -7,7 +7,7 @@
 
 ## Platform Requirements
 
-Require Go >= 1.15.8
+Require Go >= 1.16
 
 ## Commit Message Convention
 
